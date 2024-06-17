@@ -44,6 +44,18 @@ and DeFI on Cardano.
          and applications running on Cardano in a trustless way.
      </td>
   </tr>
+  <tr>
+     <td>
+         <img width="100" src="https://raw.githubusercontent.com/cardano-scaling/alba/main/docs/src/logo.svg" />
+     </td>
+     <td>
+         <a href="https://github.com/cardano-scaling/alba">ALBA</a> is
+         a novel cryptographic type of <em>proof of knowledge</em> that allows a prover to convince a verifier
+         they know a large set of elements verifying some predicate by providing a much smaller subset. It is 
+         useful to build <em>certificates</em> from large number of individual elements, like signatures or votes, 
+         assuming a significant majority of honest items.
+     </td>
+  </tr>
 </table>
 
 ## Community
