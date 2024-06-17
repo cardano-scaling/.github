@@ -56,6 +56,17 @@ and DeFI on Cardano.
          assuming a significant majority of honest items.
      </td>
   </tr>
+   <tr>
+     <td>
+         <img width="100" src="https://github.com/input-output-hk/ouroboros-leios/blob/main/site/static/img/wave-logo.svg" />
+     </td>
+     <td>
+         <a href="https://github.com/input-output-hk/ouroboros-leios">Leios</a> is
+         an extension to Ouroboros Praos, the protocol powering Cardano, that dramatically increases the throughput of 
+         the network. It is currently in its <em>R&D</em> phase with the goal of producing a detailed specification for 
+         implementors.
+     </td>
+  </tr>
 </table>
 
 ## Community
