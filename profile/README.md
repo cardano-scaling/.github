@@ -21,7 +21,7 @@ and DeFI on Cardano.
 <table>
   <tr>
      <td>
-         <img width="100" src="https://raw.githubusercontent.com/input-output-hk/hydra/master/docs/static/img/hydra.png" />
+         <img width="100" src="https://raw.githubusercontent.com/cardano-scaling/hydra/master/docs/static/img/hydra.png" />
      </td>
      <td>
          <a href="https://github.com/cardano-scaling/hydra">Hydra</a> is the
